@@ -23,9 +23,6 @@ This project is built using pure **HTML** and **CSS**, featuring multiple stylis
 ## 📂 Project Structure
 index.html --> Main HTML file style.css --> CSS stylesheet
 
-<h2><ol>
-<li>Nav Bar 1 - <a href="https://codewithimraan.github.io/Animated-Nav-Bars/Nav-Bar-1/">Live Preview</a> </li>
-</ol></h2>
 
 ---
 
